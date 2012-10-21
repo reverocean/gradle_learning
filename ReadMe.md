@@ -10,4 +10,6 @@ Run the following command to test Gradle
 ```
 gradle -v
 ```
-
+#Add Gradle plugin into Idea(Optinal)
+*Preferences*->*Plugins*->*Browse repositories*  
+Search and install the plugin of gradle
