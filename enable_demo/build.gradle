@@ -1,0 +1,8 @@
+task task1 << {
+	println 'task 1'
+}
+
+task task2(dependsOn: task1) << {
+	println 'task 2'
+}
+

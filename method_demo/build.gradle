@@ -1,0 +1,9 @@
+task task1 << {
+	println 'Task 1'
+}
+
+task task2 << {
+	println 'Task 2'
+}
+
+
